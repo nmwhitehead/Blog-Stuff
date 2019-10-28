@@ -1,51 +1,51 @@
-,Name,Link,H2O,Total THC,Total CBD,THCA,CBDA,Beta-Caryophyllene,Alpha-Humelene,Cluster
-0,Green Crack,http://ocpdb.pythonanywhere.com/ocpdb/565/,9.10%,238.85,0.0,245,0.0,4.1,0.96,0
-1,Blue Dream,http://ocpdb.pythonanywhere.com/ocpdb/590/,10.54%,217.17,0.0,218,0.0,1.99,0.55,0
-2,ACDC/Harlequin,http://ocpdb.pythonanywhere.com/ocpdb/422/,14.80%,141.0,56.0,138,55.0,3.11,1.2,0
-3,Headband,http://ocpdb.pythonanywhere.com/ocpdb/609/,9.29%,238.58,0.0,241,0.0,4.64,1.23,0
-4,Durban Poison,http://ocpdb.pythonanywhere.com/ocpdb/474/,11.70%,237.0,0.0,240,0.0,0.47,0.17,0
-5,Pineapple Express,http://ocpdb.pythonanywhere.com/ocpdb/462/,13.70%,213.0,0.0,211,0.0,1.95,0.82,0
-6,Master Kush,http://ocpdb.pythonanywhere.com/ocpdb/432/,9.70%,137.0,0.0,142,0.0,1.61,0.55,0
-7,Jack Herer (425),http://ocpdb.pythonanywhere.com/ocpdb/425/,10.10%,245.0,0.0,253,0.0,1.7,0.76,0
-8,Jack Herer (506),http://ocpdb.pythonanywhere.com/ocpdb/506/,9.30%,151.0,0.0,157,0.0,1.27,0.51,0
-9,Jack Herer (645),http://ocpdb.pythonanywhere.com/ocpdb/645/,9.58%,207.7,2.98,210,0.0,2.96,1.06,0
-10,Critical Cheese,http://ocpdb.pythonanywhere.com/ocpdb/426/,10.60%,138.0,0.0,142,0.0,0.83,0.44,0
-11,Sour Amnesia,http://ocpdb.pythonanywhere.com/ocpdb/424/,13.20%,222.0,0.0,222,0.0,1.42,0.58,0
-12,WildFire,http://ocpdb.pythonanywhere.com/ocpdb/428/,8.20%,165.0,0.0,174,0.0,3.22,1.33,0
-13,Mighty Quinn,http://ocpdb.pythonanywhere.com/ocpdb/568/,8.25%,128.6,91.61,124,92.4,4.25,1.2,1
-14,City Of God,http://ocpdb.pythonanywhere.com/ocpdb/513/,9.80%,180.0,0.0,166,0.0,2.05,1.05,0
-15,Honey Bananas,http://ocpdb.pythonanywhere.com/ocpdb/515/,12.20%,201.0,0.0,203,0.0,1.33,0.59,0
-16,Moon Puppies,http://ocpdb.pythonanywhere.com/ocpdb/431/,9.10%,279.0,0.0,291,0.0,1.02,0.41,0
-17,Golden Pineapple,http://ocpdb.pythonanywhere.com/ocpdb/434/,9.80%,213.0,0.0,221,0.0,0.96,0.32,0
-18,Romulam Grapefruit,http://ocpdb.pythonanywhere.com/ocpdb/433/,8.60%,152.0,0.0,160,0.0,0.31,0.17,0
-19,Thin Mint GSC,http://ocpdb.pythonanywhere.com/ocpdb/573/,9.33%,190.44,0.0,189,0.0,9.45,3.22,0
-20,Young Jedi,http://ocpdb.pythonanywhere.com/ocpdb/438/,14.20%,218.0,0.0,215,0.0,1.07,0.33,0
-21,Holy Widow,http://ocpdb.pythonanywhere.com/ocpdb/671/,10.12%,163.76,3.55,158,2.44,0.0,0.0,0
-22,Twisted Siskiyou,http://ocpdb.pythonanywhere.com/ocpdb/542/,7.89%,45.7,64.08,48,67.3,3.0,0.72,1
-23,CDB Blue Dream,http://ocpdb.pythonanywhere.com/ocpdb/543/,9.77%,69.14,75.67,0,75.6,0.81,0.0,1
-24,Starman,http://ocpdb.pythonanywhere.com/ocpdb/544/,8.68%,121.85,55.89,126,58.2,7.05,2.08,0
-25,CBD Skunk Haze,http://ocpdb.pythonanywhere.com/ocpdb/546/,12.38%,58.55,96.03,49,90.5,2.01,0.68,1
-26,Mountain Girl Lemon,http://ocpdb.pythonanywhere.com/ocpdb/548/,10.38%,169.91,0.86,171,0.0,3.19,0.7,0
-27,Harley Wreck 5,http://ocpdb.pythonanywhere.com/ocpdb/556/,8.02%,16.97,113.96,17,117.0,2.27,0.8,1
-28,Sugarloaf,http://ocpdb.pythonanywhere.com/ocpdb/558/,8.69%,34.86,119.15,36,122.0,4.45,1.2,1
-29,Telenovela,http://ocpdb.pythonanywhere.com/ocpdb/559/,10.15%,35.63,71.84,36,73.6,2.42,0.75,1
-30,CDB Greek Crack,http://ocpdb.pythonanywhere.com/ocpdb/560/,9.83%,43.11,74.55,42,72.8,0.87,0.0,1
-31,Ancient Art,http://ocpdb.pythonanywhere.com/ocpdb/564/,10.04%,134.12,87.64,131,89.9,2.7,0.62,1
-32,Critical Cure,http://ocpdb.pythonanywhere.com/ocpdb/569/,9.77%,80.17,139.89,74,140.0,4.17,1.45,1
-33,Bubba,http://ocpdb.pythonanywhere.com/ocpdb/606/,11.30%,256.47,0.0,248,0.0,4.74,1.19,0
-34,Nepalese Kush,http://ocpdb.pythonanywhere.com/ocpdb/607/,8.84%,288.41,0.0,296,0.0,3.2,1.02,0
-35,GG40G,http://ocpdb.pythonanywhere.com/ocpdb/613/,9.68%,184.69,0.0,169,0.0,2.61,0.65,0
-36,Peanut Butter Breath,http://ocpdb.pythonanywhere.com/ocpdb/612/,10.64%,259.15,0.0,259,0.0,6.34,2.14,0
-37,Headdog 9,http://ocpdb.pythonanywhere.com/ocpdb/617/,8.00%,249.67,0.61,248,0.64,4.64,1.19,0
-38,Quantum Kush 5,http://ocpdb.pythonanywhere.com/ocpdb/616/,9.31%,212.95,0.0,210,0.0,4.8,1.22,0
-39,Pineapple Jager,http://ocpdb.pythonanywhere.com/ocpdb/619/,9.23%,62.64,138.63,57,138.0,2.33,0.78,1
-40,Green C,http://ocpdb.pythonanywhere.com/ocpdb/623/,10.73%,177.63,0.0,171,0.0,2.41,0.97,0
-41,Sour Tsunami,http://ocpdb.pythonanywhere.com/ocpdb/620/,9.85%,5.1,117.06,5,109.0,1.63,0.0,1
-42,Forum GSC,http://ocpdb.pythonanywhere.com/ocpdb/621/,8.83%,158.69,0.0,157,0.0,3.8,1.33,0
-43,Chocolate Hashberry,http://ocpdb.pythonanywhere.com/ocpdb/622/,9.31%,238.2,0.0,241,0.0,3.02,0.95,0
-44,Purple Hindu Kush,http://ocpdb.pythonanywhere.com/ocpdb/626/,0.00%,181.03,0.0,198,0.0,2.19,0.0,-1
-45,Black Widow,http://ocpdb.pythonanywhere.com/ocpdb/629/,12.69%,177.61,3.61,167,0.0,0.78,0.0,0
-46,Where's My Bike,http://ocpdb.pythonanywhere.com/ocpdb/635/,10.33%,195.59,0.0,199,0.0,5.45,1.45,0
-47,Voyager 1,http://ocpdb.pythonanywhere.com/ocpdb/636/,7.02%,316.6,0.62,323,0.66,0.85,0.0,0
-48,Gnome Walker,http://ocpdb.pythonanywhere.com/ocpdb/638/,10.86%,233.6,0.0,232,0.0,4.26,1.47,0
-49,TJ's Platinum GSC,http://ocpdb.pythonanywhere.com/ocpdb/527/,8.09%,165.91,0.0,166,0.0,6.41,2.35,0
+,Name,Link,H2O,Total THC,Total CBD,THCA,CBDA,Beta-Caryophyllene,Alpha-Humelene,clusters
+0,Green Crack,http://ocpdb.pythonanywhere.com/ocpdb/565/,0.091,238.85,0.0,245,0.0,4.1,0.96,0
+1,Blue Dream,http://ocpdb.pythonanywhere.com/ocpdb/590/,0.1054,217.17,0.0,218,0.0,1.99,0.55,0
+2,ACDC/Harlequin,http://ocpdb.pythonanywhere.com/ocpdb/422/,0.14800000000000002,141.0,56.0,138,55.0,3.11,1.2,-1
+3,Headband,http://ocpdb.pythonanywhere.com/ocpdb/609/,0.0929,238.58,0.0,241,0.0,4.64,1.23,0
+4,Durban Poison,http://ocpdb.pythonanywhere.com/ocpdb/474/,0.11699999999999999,237.0,0.0,240,0.0,0.47,0.17,0
+5,Pineapple Express,http://ocpdb.pythonanywhere.com/ocpdb/462/,0.13699999999999998,213.0,0.0,211,0.0,1.95,0.82,0
+6,Master Kush,http://ocpdb.pythonanywhere.com/ocpdb/432/,0.09699999999999999,137.0,0.0,142,0.0,1.61,0.55,0
+7,Jack Herer (425),http://ocpdb.pythonanywhere.com/ocpdb/425/,0.10099999999999999,245.0,0.0,253,0.0,1.7,0.76,0
+8,Jack Herer (506),http://ocpdb.pythonanywhere.com/ocpdb/506/,0.09300000000000001,151.0,0.0,157,0.0,1.27,0.51,0
+9,Jack Herer (645),http://ocpdb.pythonanywhere.com/ocpdb/645/,0.0958,207.7,2.98,210,0.0,2.96,1.06,0
+10,Critical Cheese,http://ocpdb.pythonanywhere.com/ocpdb/426/,0.106,138.0,0.0,142,0.0,0.83,0.44,0
+11,Sour Amnesia,http://ocpdb.pythonanywhere.com/ocpdb/424/,0.132,222.0,0.0,222,0.0,1.42,0.58,0
+12,WildFire,http://ocpdb.pythonanywhere.com/ocpdb/428/,0.08199999999999999,165.0,0.0,174,0.0,3.22,1.33,0
+13,Mighty Quinn,http://ocpdb.pythonanywhere.com/ocpdb/568/,0.0825,128.6,91.61,124,92.4,4.25,1.2,-1
+14,City Of God,http://ocpdb.pythonanywhere.com/ocpdb/513/,0.098,180.0,0.0,166,0.0,2.05,1.05,0
+15,Honey Bananas,http://ocpdb.pythonanywhere.com/ocpdb/515/,0.122,201.0,0.0,203,0.0,1.33,0.59,0
+16,Moon Puppies,http://ocpdb.pythonanywhere.com/ocpdb/431/,0.091,279.0,0.0,291,0.0,1.02,0.41,0
+17,Golden Pineapple,http://ocpdb.pythonanywhere.com/ocpdb/434/,0.098,213.0,0.0,221,0.0,0.96,0.32,0
+18,Romulam Grapefruit,http://ocpdb.pythonanywhere.com/ocpdb/433/,0.086,152.0,0.0,160,0.0,0.31,0.17,0
+19,Thin Mint GSC,http://ocpdb.pythonanywhere.com/ocpdb/573/,0.0933,190.44,0.0,189,0.0,9.45,3.22,0
+20,Young Jedi,http://ocpdb.pythonanywhere.com/ocpdb/438/,0.142,218.0,0.0,215,0.0,1.07,0.33,0
+21,Holy Widow,http://ocpdb.pythonanywhere.com/ocpdb/671/,0.1012,163.76,3.55,158,2.44,0.0,0.0,0
+22,Twisted Siskiyou,http://ocpdb.pythonanywhere.com/ocpdb/542/,0.0789,45.7,64.08,48,67.3,3.0,0.72,1
+23,CDB Blue Dream,http://ocpdb.pythonanywhere.com/ocpdb/543/,0.0977,69.14,75.67,0,75.6,0.81,0.0,1
+24,Starman,http://ocpdb.pythonanywhere.com/ocpdb/544/,0.0868,121.85,55.89,126,58.2,7.05,2.08,-1
+25,CBD Skunk Haze,http://ocpdb.pythonanywhere.com/ocpdb/546/,0.12380000000000001,58.55,96.03,49,90.5,2.01,0.68,-1
+26,Mountain Girl Lemon,http://ocpdb.pythonanywhere.com/ocpdb/548/,0.1038,169.91,0.86,171,0.0,3.19,0.7,0
+27,Harley Wreck 5,http://ocpdb.pythonanywhere.com/ocpdb/556/,0.0802,16.97,113.96,17,117.0,2.27,0.8,2
+28,Sugarloaf,http://ocpdb.pythonanywhere.com/ocpdb/558/,0.08689999999999999,34.86,119.15,36,122.0,4.45,1.2,2
+29,Telenovela,http://ocpdb.pythonanywhere.com/ocpdb/559/,0.1015,35.63,71.84,36,73.6,2.42,0.75,1
+30,CDB Greek Crack,http://ocpdb.pythonanywhere.com/ocpdb/560/,0.0983,43.11,74.55,42,72.8,0.87,0.0,1
+31,Ancient Art,http://ocpdb.pythonanywhere.com/ocpdb/564/,0.10039999999999999,134.12,87.64,131,89.9,2.7,0.62,1
+32,Critical Cure,http://ocpdb.pythonanywhere.com/ocpdb/569/,0.0977,80.17,139.89,74,140.0,4.17,1.45,2
+33,Bubba,http://ocpdb.pythonanywhere.com/ocpdb/606/,0.113,256.47,0.0,248,0.0,4.74,1.19,0
+34,Nepalese Kush,http://ocpdb.pythonanywhere.com/ocpdb/607/,0.08839999999999999,288.41,0.0,296,0.0,3.2,1.02,0
+35,GG40G,http://ocpdb.pythonanywhere.com/ocpdb/613/,0.0968,184.69,0.0,169,0.0,2.61,0.65,0
+36,Peanut Butter Breath,http://ocpdb.pythonanywhere.com/ocpdb/612/,0.10640000000000001,259.15,0.0,259,0.0,6.34,2.14,0
+37,Headdog 9,http://ocpdb.pythonanywhere.com/ocpdb/617/,0.08,249.67,0.61,248,0.64,4.64,1.19,0
+38,Quantum Kush 5,http://ocpdb.pythonanywhere.com/ocpdb/616/,0.0931,212.95,0.0,210,0.0,4.8,1.22,0
+39,Pineapple Jager,http://ocpdb.pythonanywhere.com/ocpdb/619/,0.09230000000000001,62.64,138.63,57,138.0,2.33,0.78,2
+40,Green C,http://ocpdb.pythonanywhere.com/ocpdb/623/,0.1073,177.63,0.0,171,0.0,2.41,0.97,0
+41,Sour Tsunami,http://ocpdb.pythonanywhere.com/ocpdb/620/,0.09849999999999999,5.1,117.06,5,109.0,1.63,0.0,2
+42,Forum GSC,http://ocpdb.pythonanywhere.com/ocpdb/621/,0.0883,158.69,0.0,157,0.0,3.8,1.33,0
+43,Chocolate Hashberry,http://ocpdb.pythonanywhere.com/ocpdb/622/,0.0931,238.2,0.0,241,0.0,3.02,0.95,0
+44,Purple Hindu Kush,http://ocpdb.pythonanywhere.com/ocpdb/626/,0.0,181.03,0.0,198,0.0,2.19,0.0,-1
+45,Black Widow,http://ocpdb.pythonanywhere.com/ocpdb/629/,0.12689999999999999,177.61,3.61,167,0.0,0.78,0.0,0
+46,Where's My Bike,http://ocpdb.pythonanywhere.com/ocpdb/635/,0.1033,195.59,0.0,199,0.0,5.45,1.45,0
+47,Voyager 1,http://ocpdb.pythonanywhere.com/ocpdb/636/,0.0702,316.6,0.62,323,0.66,0.85,0.0,0
+48,Gnome Walker,http://ocpdb.pythonanywhere.com/ocpdb/638/,0.10859999999999999,233.6,0.0,232,0.0,4.26,1.47,0
+49,TJ's Platinum GSC,http://ocpdb.pythonanywhere.com/ocpdb/527/,0.0809,165.91,0.0,166,0.0,6.41,2.35,0
